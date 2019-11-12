@@ -1,0 +1,3 @@
+My upgraded Breakout project.
+
+The video walkthrough was very helpful in implementing some cool effects. Some of them however I couldn't get to work and I spent a good amount of time tweaking and fixing things because the game would crash whenever the timer went to 1. But I got the trail the row shake color changing ball to work. Some things I would like to add would be level progression changes and maybe a rotating ball could be cool for my game.
